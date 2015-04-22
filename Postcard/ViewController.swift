@@ -32,6 +32,7 @@ class ViewController: UIViewController {
         // Adding a comment here to test commits
         // label properties
         
+        
         messageLabel.hidden = false
         messageLabel.text = enterMessageTextField.text
         messageLabel.textColor = UIColor.redColor()
